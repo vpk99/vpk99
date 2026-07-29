@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Vinayak Khot</h1>
 <h3 align="center">DevOps Engineer | Automating Infrastructure, Enabling Reliable Delivery</h3>
 
 <p align="center">
@@ -14,7 +14,7 @@
 - 🎯 Actively looking for a **DevOps Engineer** role where I can contribute to automation, reliability, and scalable infrastructure
 - 📂 Check out my pinned repositories below for hands-on project work
 - 💬 Ask me about CI/CD pipelines, containerization, cloud provisioning, or automation scripting
-- 📫 Reach me at: **[your-email@example.com]**
+- 📫 Reach me at: **vinayakkhot.dev@gmail.com**
 
 ---
 
@@ -65,29 +65,47 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vpk99&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vpk99&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpk99&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
 
-> Pin your best repos to your profile (Profile → Customize your pins) — they'll automatically display in a dedicated section right below this README on your profile page. No extra markdown needed for that part.
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/vpk99/Ultimate_DevOps_Projects">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vpk99&repo=Ultimate_DevOps_Projects&theme=tokyonight&hide_border=true" alt="Ultimate DevOps Projects" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/vpk99/DevOps_Main">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vpk99&repo=DevOps_Main&theme=tokyonight&hide_border=true" alt="DevOps Main" />
+</a>
+</td>
+</tr>
+</table>
+
+- 🚀 **[Ultimate DevOps Projects](https://github.com/vpk99/Ultimate_DevOps_Projects)** — A collection of end-to-end DevOps projects covering CI/CD, containerization, cloud, and automation workflows
+- 🛠️ **[DevOps Main](https://github.com/vpk99/DevOps_Main)** — Core DevOps project repository; see the **[/projects](https://github.com/vpk99/DevOps_Main/tree/main/projects)** folder for individual hands-on implementations
+
+> 💡 Tip: You can also pin these directly to your profile (Profile → Customize your pins) so they show as native cards below this README.
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/vinayak-khot-0922352a3/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:vinayakkhot.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
@@ -95,18 +113,3 @@
 ---
 
 <p align="center"><i>Automating today for a more reliable tomorrow ⚙️</i></p>
-
-<!--
-**vpk99/vpk99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
